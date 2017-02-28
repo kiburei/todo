@@ -1,16 +1,18 @@
 # Project Name
 
-[Project site](https://example.com)
+[To Do List](https://example.com)
 
-Authors: [Your Name](https://your-website-or-email.com) + other authors
+Authors: [Andrew Wachira](https://your-website-or-email.com)
+Authors: [Sotonye Ogolo](https://your-website-or-email.com)
+Authors: [Abdulmajid Osman](https://your-website-or-email.com)
 
 ## Description
 
-This is a project to cure cancer...probably.
+This is a to do list project.
 
 It can do:
-1. blah
-2. blah blah
+1. Accept user to input tasks to do
+2. List user tasks which have been completed
 
 ### Technologies Used
 * HTML
