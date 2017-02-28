@@ -2,9 +2,9 @@
 
 [To Do List](https://example.com)
 
-Authors: [Andrew Wachira](https://your-website-or-email.com)
-Authors: [Sotonye Ogolo](https://your-website-or-email.com)
-Authors: [Abdulmajid Osman](https://your-website-or-email.com)
+* Authors: [Andrew Wachira](https://your-website-or-email.com)
+* Au1thors: [Sotonye Ogolo](https://your-website-or-email.com)
+* Authors: [Abdulmajid Osman](https://your-website-or-email.com)
 
 ## Description
 
